@@ -1,4 +1,4 @@
-# Simple Product Catalog using HTMl
+# Simple Product Catalog using HTML
 
 ## Overview
 This is a basic **Product Catalog** built using **HTML**. It displays a list of products with details such as name, image, description, and price. The project is designed to be simple and static, making it easy to understand for beginners.
