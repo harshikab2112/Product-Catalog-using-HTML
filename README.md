@@ -30,7 +30,7 @@ Simple-Product-Catalog/
 ```
 
 ## Live Demo
-Check out the live demo here: [Live Link](https://your-live-demo-link.com)
+Check out the live demo here: [Live Link](https://product-catalog-hb.netlify.app/)
 
 ## Customization
 - To **add a new product**, edit the `index.html` file and add a new `<div>` block following the existing product format.
